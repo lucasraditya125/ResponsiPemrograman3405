@@ -1,0 +1,7 @@
+C:\Users\intel\source\repos\ResponsiPemrograman3405\ResponsiPemrograman3405\bin\Debug\ResponsiPemrograman3405.exe.config
+C:\Users\intel\source\repos\ResponsiPemrograman3405\ResponsiPemrograman3405\bin\Debug\ResponsiPemrograman3405.exe
+C:\Users\intel\source\repos\ResponsiPemrograman3405\ResponsiPemrograman3405\bin\Debug\ResponsiPemrograman3405.pdb
+C:\Users\intel\source\repos\ResponsiPemrograman3405\ResponsiPemrograman3405\obj\Debug\ResponsiPemrograman3405.csprojAssemblyReference.cache
+C:\Users\intel\source\repos\ResponsiPemrograman3405\ResponsiPemrograman3405\obj\Debug\ResponsiPemrograman3405.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\ResponsiPemrograman3405\ResponsiPemrograman3405\obj\Debug\ResponsiPemrograman3405.exe
+C:\Users\intel\source\repos\ResponsiPemrograman3405\ResponsiPemrograman3405\obj\Debug\ResponsiPemrograman3405.pdb
